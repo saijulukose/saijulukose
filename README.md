@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saijulukose
 - 🌱 I’m currently learning System Verilog,UVM,BASH,Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Reach me on saijulukos@gmail.com
 
 <!---
 saijulukose/saijulukose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
